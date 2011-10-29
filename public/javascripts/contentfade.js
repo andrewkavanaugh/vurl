@@ -11,4 +11,3 @@ featuredcontentslider.init({
 		//curindex holds index of currently shown slide (1=1st slide, 2nd=2nd etc)
 	}
 })
-    
